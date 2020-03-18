@@ -10,3 +10,12 @@ body {
 .text-color {
 	color: blueviolet
 }
+
+.p {
+	padding-left: 50px;
+	
+}
+
+.header {
+	padding-left: 50px;
+}
