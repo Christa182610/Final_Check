@@ -1,1 +1,12 @@
 @charset "UTF-8";
+body {
+	font-family: 'Sen', sans-serif;
+	
+}
+.my-footer {
+	background-color: #B499CC
+}
+
+.text-color {
+	color: blueviolet
+}
